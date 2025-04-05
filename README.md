@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Built with
 
--Built with **React**
--Vanilla CSS(for styling)
+ - Built with **React** <br/>
+ - Vanilla CSS(for styling)
 
 ### What I learned
--By creating this application i learned react fundamentals like components, props, hooks and state managment, handling side effects and how to work with local files.
+- By creating this application i learned react fundamentals like components, props, hooks and state managment, handling side effects and how to work with local files.
