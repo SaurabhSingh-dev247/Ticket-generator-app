@@ -24,4 +24,4 @@ Users should be able to:
  - Vanilla CSS(for styling)
 
 ### What I learned
-- By creating this application i learned react fundamentals like components, props, hooks and state managment, handling side effects and how to work with local files.
+- By creating this application I learned react fundamentals like components, props, hooks and state managment, handling side effects and how to work with local files.
