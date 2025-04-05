@@ -27,4 +27,4 @@ Users should be able to:
 - By creating this application I learned react fundamentals like components, props, hooks and state managment, handling side effects and how to work with local files.
 
 ### Preview
-![Ticket Generator App Preview](./assets/desktop-design-form.jpg)
+![Ticket Generator App Preview](/assets/desktop-design-form.jpg)
